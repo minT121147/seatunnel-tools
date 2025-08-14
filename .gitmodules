@@ -1,0 +1,3 @@
+[submodule "seatunnel"]
+	path = seatunnel
+	url = https://github.com/apache/seatunnel.git
